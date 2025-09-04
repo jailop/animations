@@ -1,2 +1,3 @@
-# animations
+# Animations
+
 Animations to support presentations
